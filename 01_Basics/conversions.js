@@ -33,6 +33,6 @@ console.log("1" + 2 + 2); //122
 console.log(+true);
 
 let num1, num2, num3
-num1 = num2 = num3 = 5
+num1 = num2 = num3 = 5 //bad practice
 console.log(num1,num2,num3);
 
